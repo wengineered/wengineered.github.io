@@ -20,14 +20,14 @@ body {
   /* Opera */
   background :      -o-linear-gradient(right, #F66B38 00%,#F66B38 49.9%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%);
   /* IE 10+ */
-  background :     -ms-linear-gradient(right, #F66B38 00%,#F66B38 49.9%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%; 
+  background :     -ms-linear-gradient(right, #F66B38 00%,#F66B38 49.9%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%); 
   /* W3C */
   background :        -linear-gradient(right, #F66B38 00%,#F66B38 49.9%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%);
 }
 
 #splash svg {
   position:relative;
-  left:50%;
+  left:50vw;
   right:0;
   height:100vh;
 }
