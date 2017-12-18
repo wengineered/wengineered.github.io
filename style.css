@@ -10,13 +10,14 @@ body {
   background-image:url('https://images.unsplash.com/photo-1505082527911-33423132c73d');
   background-size:contain;
   background-position:right top;
+  background-attachment:fixed;
   position:absolute;
 }
 
 #splash {
   height:200vh;
   width:100vw;
-  position:absolute;
+  position:relative;
 }
 #splash svg {
   position:relative;
