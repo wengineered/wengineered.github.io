@@ -15,13 +15,18 @@ body {
 }
 
 #splash {
-  height:200vh;
+  height:100vh;
   width:100vw;
   position:relative;
 }
+
 #splash svg {
   position:relative;
   left:0;
   right:0;
   height:100vh;
+}
+
+#two {position:absolute;
+  top:0;
 }
