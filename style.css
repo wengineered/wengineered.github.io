@@ -4,3 +4,15 @@ html,body {
   margin:0;
   padding:0;
 }
+.splash {
+  height:200vh;
+  width:100vw;
+  position:absolute;
+}
+.splash svg {
+ position:relative;
+left:0;
+right:0;
+heigh:100vh;
+width:100vw;
+}
