@@ -38,7 +38,7 @@ body {
   padding:0;
   color:#FFFFFF;
 }
-#splash div h1
+#splash div h1 {
   color:#383838;
 }
 #splash div hr {
