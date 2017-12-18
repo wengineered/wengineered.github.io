@@ -24,7 +24,6 @@ body {
   /* W3C */
   background :        -linear-gradient(left, #F66B38 00%,#F66B38 50%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%);
   border-right:1px solid;
-  margin-bottom:100vh;
 }
 
 #splash svg {
@@ -52,7 +51,11 @@ body {
   border:1px solid #5d697A;
 }
 main h1{width:50vw}
-main hr{width:50vw}
+main hr{
+  width:50vw;
+  margin:0;
+  border:1px solid #5d697A;
+}
 main p{width:50vw}
 
 main img {
