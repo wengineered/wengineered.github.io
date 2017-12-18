@@ -8,10 +8,6 @@ html,body {
 body {
   font-family: 'Raleway', sans-serif;
   position:absolute;
-  background-image:url('https://images.unsplash.com/photo-1505082527911-33423132c73d');
-  background-size:cover;
-  background-position:right top;
-  /*background-attachment:fixed;*/
 }
 
 #splash {
