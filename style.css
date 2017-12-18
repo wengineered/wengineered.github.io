@@ -36,5 +36,11 @@ body {
   height:40vh;
   margin:auto 0;
   padding:0;
+  color:#FFFFFF;
+}
+#splash div h1
   color:#383838;
+}
+#splash div hr {
+  border:1px solid #5d697A;
 }
