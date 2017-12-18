@@ -27,6 +27,6 @@ body {
   height:100vh;
 }
 
-#two {position:absolute;
-  top:0;
+#splash div {
+  position:relative;
 }
